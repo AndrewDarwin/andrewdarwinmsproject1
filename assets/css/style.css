@@ -1,5 +1,7 @@
 /* ----------------------------------------Header */
 
+/* I used https://stackoverflow.com/questions/34527775/how-to-increase-bootstrap-navbar-brand-font-size/34528795 to assist with the below code */
+
 .navbar-brand {
     font-size: xx-large;
 }
@@ -10,11 +12,15 @@ a.nav-link{
     color: white !important;
 }
 
+/* Used https://www.w3schools.com/css/css3_colors.asp for assistance with color code */
+
 .bg-dark {
     background-color: rgba(0,0,0,0.75) !important;
 }
 
 /* ----------------------------------------Photos */
+
+/* I used course content code to assist with the below */
 
 .home-photo {
     background: url("../images/home.jpg");
@@ -40,7 +46,7 @@ a.nav-link{
 
 /* ----------------------------------------Footer */
 
-
+/* I used course content code to assist with the below */
 
 .social-links li a i {
     
