@@ -32,6 +32,12 @@ a.nav-link{
     min-height: 300px;
 }
 
+.featurette{
+
+    padding-top: 100px;
+    padding-bottom:20px;
+}
+
 /* ----------------------------------------Footer */
 
 
@@ -55,9 +61,5 @@ a.nav-link{
 
 
 
-.featurette{
 
-    padding-top: 100px;
-    padding-bottom:20px;
-}
 
