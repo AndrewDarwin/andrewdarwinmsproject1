@@ -38,11 +38,26 @@ a.nav-link{
     min-height: 300px;
 }
 
-.featurette{
+/* ----------------------------------------Features */
 
-    padding-top: 100px;
-    padding-bottom:20px;
+.featurette{
+    padding-top: 100px;   
 }
+
+.mywork-heading { text-align: center;
+padding-bottom: 15px;}
+
+.card {height: 360px;}
+
+.contact {
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+.contact-heading { text-align: center;
+padding-bottom: 15px;}
+
+
 
 /* ----------------------------------------Footer */
 
