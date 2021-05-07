@@ -6,7 +6,7 @@ Website live link - https://andrewdarwin.github.io/andrewdarwinmsproject1/
 
 Github link - https://github.com/AndrewDarwin/andrewdarwinmsproject1
 
-![](assets/images/mockup.jpg)
+![](assets/images/mockup.jpg) 
 
 This is my resume website to present to prospective employers. The goal is to present myself and my skills to the best of my ability to get my first job as a Software Developer. The site highlights the skills I have learnt studying for a Full Stack Software Development diploma at Code Institute, as well as including information about myself, a portfolio of work, a link to view my full CV which provides an educational and work history, and a contact form. 
 
@@ -38,7 +38,7 @@ I structured the layout and content in an easily readable way for the user - fir
 
 ### Skeleton
 
-Attach wireframes in here
+![](assets/wireframes/andrewdarwinwireframes.pdf)
 
 ### Surface
 
