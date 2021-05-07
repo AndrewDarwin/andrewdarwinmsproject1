@@ -112,6 +112,8 @@ I used W3C Markup Validator and W3C CSS Validator Services (direct input on both
 
 Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the section of their choice (Home, About, Portfolio, Contact). The main points are made immediately with the home content - an introduction to who I am, and his skills as a Software Developer. From this point - the user has options to further explore and find information from the next sections on the site - about and portfolio, as well as a link to download CV, and links to my social media pages. 
 
+![](assets/images/test-home.jpg) 
+
 * I want to be able to easily navigate throughout the site to find content
 
 The site has been designed to be fluid and easy to navigate. At the top there is a clean navigation bar, each link describes what section of the site they will end up at clearly. On the Contact, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is
@@ -119,6 +121,8 @@ The site has been designed to be fluid and easy to navigate. At the top there is
 * I want to know about Andrew's education and current skillset
 
 In the About section, there is information on my current skillset, and an option to download my CV, where there is more information about my education and skillset. 
+
+![](assets/images/test-about.jpg) 
 
 * I want to know where Andrew has worked in the past
 
@@ -128,21 +132,33 @@ In the About section, the user can download my CV which has my previous work his
 
 In t he Portfolio section, there are 3 examples of my work as a developer
 
+![](assets/images/test-portfolio.jpg) 
+
 * I want to contact Andrew
 
 There is a contact form in the Contact section. In the About section, there is a download link with my CV on, which has my email address. Finally, in the footer are my social media pages, each with the ability to contact me on. 
 
+![](assets/images/test-contact.jpg) 
+
 ## Deployment
 
-The site is hosted using GitHub pages.
+The project was deployed to GitHub Pages using the following steps:
 
-The steps to deploy are as follows:
+1. Log in to GitHub and locate the GitHub Repository
 
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+https://github.com/AndrewDarwin/andrewdarwinmsproject1
 
-The GitHub link can be found here - https://github.com/AndrewDarwin/andrewdarwinmsproject1
+2. At the top of the Repository, locate the "Settings" button on the menu.
+
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+
+5. The page will automatically refresh.
+
+6. Scroll back down through the page to locate the new published site link in the "Github Pages" section.
+
+https://andrewdarwin.github.io/andrewdarwinmsproject1/ 
 
 ## Credits
 
