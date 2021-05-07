@@ -14,13 +14,15 @@ This is my resume website to present to prospective employers. The goal is to pr
 
 ### User stories
 
-### First Time Visitor Goals
+I want to find out about Andrew
 
-As a First Time Visitor, I want to easily understand the main purpose about the site and learn more about Andrew and his skills in Software Development. I also want to be able to easily navigate throughout the site to find content. Finally, I want to contact Andrew, view his CV and social media pages.
+I want to know about Andrew's education and current skillset
 
-### Returning/Frequent Visitor Goals
+I want to know where Andrew has worked in the past
 
-As a Returning Visitor, I want to contact Andrew for more information/offer an interview.
+I want to take a look at Andrew's portfolio as a developer
+
+I want to contact Andrew
 
 ## 5 Planes UX
 
@@ -38,7 +40,9 @@ I structured the layout and content in an easily readable way for the user - fir
 
 ### Skeleton
 
-![](assets/wireframes/andrewdarwinwireframes.pdf)
+Here below is a wireframe of the desktop version of my site
+
+![](assets/images/wireframes.jpg) 
 
 ### Surface
 
