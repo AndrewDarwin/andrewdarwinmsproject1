@@ -171,4 +171,4 @@ I used https://techsini.com/multi-mockup/ for the site mockup at the top of READ
  
 ### Acknowledgements
 
-Thanks to my Mentor Antonio for continuous helpful feedback. 
+Thanks to my Mentor Antonio for continuous helpful feedback.
