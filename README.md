@@ -159,7 +159,7 @@ I also used Code Institute course material to assist me in writing code
 
 ### Content
 
-All content was written by myself.
+All content was written by myself..
 
 ### Media
 
