@@ -160,6 +160,8 @@ https://github.com/AndrewDarwin/andrewdarwinmsproject1
 
 https://andrewdarwin.github.io/andrewdarwinmsproject1/ 
 
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/AndrewDarwin/andrewdarwinmsproject1 into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
 ## Credits
 
 ### Code
