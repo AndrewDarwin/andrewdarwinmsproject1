@@ -14,21 +14,23 @@ This is my resume website to present to prospective employers. The goal is to pr
 
 ### User stories
 
-I want to find out about Andrew
+* I want to learn about Andrew Darwin and his Software Development skills
 
-I want to know about Andrew's education and current skillset
+* I want to be able to easily navigate throughout the site to find content
 
-I want to know where Andrew has worked in the past
+* I want to know about Andrew's education and current skillset
 
-I want to take a look at Andrew's portfolio as a developer
+* I want to know where Andrew has worked in the past
 
-I want to contact Andrew
+* I want to take a look at Andrew's portfolio as a developer
+
+* I want to contact Andrew
 
 ## 5 Planes UX
 
 ### Strategy
 
-My goal in the design was to create a resume site with digestible information for the user. I aimed to have a nice layout and clean design - consistent in style and colour throughout.
+My goal was to develop an appealing portfolio website that leaves an impression with its users which will mostly be recruiters. My aim was to create a resume site with digestible information for the user. I aimed to have a nice layout and clean design - consistent in style and colour throughout.
 
 ### Scope
 
@@ -78,48 +80,57 @@ Contact contains a contact form, which requests the user’s name and email, and
 
 ### Languages Used
 
-HTML
-CSS
+* HTML
+
+* CSS
 
 ### Frameworks, Libraries & Programs Used
 
-Bootstrap (including jQuery) - to assist with the design and responsiveness of the site.
+* Bootstrap (including jQuery) - to assist with the design and responsiveness of the site.
 
-Font Awesome - for the social media icons in the footer
+* Font Awesome - for the social media icons in the footer
 
-Gitpod - for coding and documenting in the terminal descriptive commit messages, and pushing to GitHub.
+* Gitpod - for coding and documenting in the terminal descriptive commit messages, and pushing to GitHub.
 
-GitHub - to store the project after being pushed from Gitpod.
+* GitHub - to store the project after being pushed from Gitpod.
 
-Balsamiq - to create the wireframes during the design process for README.
+* Balsamiq - to create the wireframes during the design process for README.
 
 ## Testing
 
 The site was tested across multiple browsers (Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers) and tested on a variety of devices (Desktop, Laptop, iPhone, iPad) to ensure compatibility and responsiveness. Friends reviewed the site to discuss any user experience issues.
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate the code to ensure there were no errors in the project.
+I used W3C Markup Validator and W3C CSS Validator Services (direct input on both) to validate the code to ensure there were no errors in the project. They both passed without any errors or warnings, screenshots below;
+
+![](assets/images/htmlvalidation.jpg) 
+
+![](assets/images/cssvalidation.jpg) 
 
 ### Testing User Stories from User Experience (UX) Section
 
-### First Time Visitor Goals
-
-As a First Time Visitor, I wanted to easily understand the main purpose of the site and learn more about Andrew Darwin and his Software Development skills:
+* I want to learn about Andrew Darwin and his Software Development skills
 
 Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the section of their choice (Home, About, Portfolio, Contact). The main points are made immediately with the home content - an introduction to who I am, and his skills as a Software Developer. From this point - the user has options to further explore and find information from the next sections on the site - about and portfolio, as well as a link to download CV, and links to my social media pages. 
 
-### As a First Time Visitor, I wanted to be able to easily navigate throughout the site to find content:
+* I want to be able to easily navigate throughout the site to find content
 
-The site has been designed to be fluid and easy to navigate. At the top there is a clean navigation bar, each link describes what section of the site they will end up at clearly. On the Contact, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+The site has been designed to be fluid and easy to navigate. At the top there is a clean navigation bar, each link describes what section of the site they will end up at clearly. On the Contact, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is
 
-### As a First Time Visitor, I wanted to contact Andrew, view Andrew’s CV and his social media pages:
+* I want to know about Andrew's education and current skillset
 
-There is a contact form to contact me, a link to download my CV, and also my social media pages for more information about me outside of the site.
+In the About section, there is information on my current skillset, and an option to download my CV, where there is more information about my education and skillset. 
 
-### Returning/Frequent Visitor Goals
+* I want to know where Andrew has worked in the past
 
-### As a Returning/Frequent Visitor, I wanted to contact Andrew for more information/offer an interview:
+In the About section, the user can download my CV which has my previous work history
 
-There is a contact form in the Contact section. In the About section, there is a download link with my CV on, which has my email address. Finally, in the footer are Andrew’s social media pages, each with the ability to contact me on. 
+* I want to take a look at Andrew's portfolio as a developer
+
+In t he Portfolio section, there are 3 examples of my work as a developer
+
+* I want to contact Andrew
+
+There is a contact form in the Contact section. In the About section, there is a download link with my CV on, which has my email address. Finally, in the footer are my social media pages, each with the ability to contact me on. 
 
 ## Deployment
 
@@ -137,7 +148,7 @@ The GitHub link can be found here - https://github.com/AndrewDarwin/andrewdarwin
 
 ### Code
 
-The site was built using Bootstrap. I used Bootstrap documentation to help me construct various parts of my code;
+* The site was built using Bootstrap. I used Bootstrap documentation to help me construct various parts of my code;
 
 https://getbootstrap.com/docs/4.0/components/navbar/ 
 
@@ -147,7 +158,7 @@ https://getbootstrap.com/docs/4.4/components/card/
 
 https://getbootstrap.com/docs/5.0/forms/layout/ 
 
-I also used some other bootstrap related sites to aid me with my code;
+* I also used some other bootstrap related sites to aid me with my code;
 
 https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items 
 
@@ -157,9 +168,9 @@ https://mdbootstrap.com/docs/b4/jquery/navigation/navs/
 
 https://mdbootstrap.com/docs/standard/navigation/footer/ 
 
-I used https://www.w3schools.com/css/css3_colors.asp for CSS color code
+* I used https://www.w3schools.com/css/css3_colors.asp for CSS color code
 
-I also used Code Institute course material to assist me in writing code
+* I also used Code Institute course material to assist me in writing code
 
 ### Content
 
@@ -167,11 +178,11 @@ All content was written by myself..
 
 ### Media
 
-I own the photo of myself on the home page, whilst the photo of the computer with code is taken from Pexels, a stock image library. 
+* I own the photo of myself on the home page, whilst the photo of the computer with code is taken from Pexels, a stock image library. 
 
-The portfolio section "My Work" are example websites only. They are not my work. They are taken from an article "https://webflow.com/blog/business-website-examples" - I used a screenshot image for each of the 3 examples from http://ami.responsivedesign.is/# for each website - https://www.studiomoat.com/, https://www.soundstripe.com/ and https://www.alley.com/
+* The portfolio section "My Work" are example websites only. They are not my work. They are taken from an article "https://webflow.com/blog/business-website-examples" - I used a screenshot image for each of the 3 examples from http://ami.responsivedesign.is/# for each website - https://www.studiomoat.com/, https://www.soundstripe.com/ and https://www.alley.com/
 
-I used https://techsini.com/multi-mockup/ for the site mockup at the top of README.
+* I used https://techsini.com/multi-mockup/ for the site mockup at the top of README.
  
 ### Acknowledgements
 
